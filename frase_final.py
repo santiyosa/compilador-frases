@@ -1,4 +1,4 @@
 frase = []
-frase.append("El profesor")
+frase.append("¡carpe diem!")
 print(frase)
-
+# Luis Mario Arcila
