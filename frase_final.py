@@ -1,4 +1,4 @@
 frase = []
-frase.append("El profesor")
+frase.append("parece tener")
 print(frase)
-
+#Santiago Rua
