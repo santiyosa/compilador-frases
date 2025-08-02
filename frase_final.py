@@ -1,5 +1,4 @@
 frase = []
-frase.append("Hi, World")
+frase.append("El profesor")
 print(frase)
 
-#Camilo Arias
