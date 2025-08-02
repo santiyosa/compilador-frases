@@ -1,4 +1,4 @@
 frase = []
-frase.append("El profesor")
-print(frase)
+frase.append("lamentablemente") # Martin
 
+print(" ".join(frase))
