@@ -4,5 +4,5 @@ frase.append("El profesor")
 print(frase)
 
 #2
-frase.append("El niño esta estudia")
+frase.append("El niño no esta estudia")
 print(frase)
