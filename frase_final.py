@@ -10,4 +10,6 @@ print(frase)
 frase.append("zapato")
 print(frase)
 
-
+#4
+frase.append("perro")
+print(frase)
