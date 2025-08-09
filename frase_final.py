@@ -10,4 +10,7 @@ print(frase)
 frase.append("zapato")
 print(frase)
 
+#53
+frase.append("los discapacitados")
+
 
