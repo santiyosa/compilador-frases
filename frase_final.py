@@ -10,4 +10,8 @@ print(frase)
 frase.append("zapato")
 print(frase)
 
+#101
+frase.append("la camiseta")
+print(frase)
+
 
