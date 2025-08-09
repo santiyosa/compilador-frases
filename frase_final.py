@@ -10,6 +10,9 @@ print(frase)
 frase.append("zapato")
 print(frase)
 
+#87
+frase.append("1147")
+print(frase)
 
 #100
 frase.append("Verde")
